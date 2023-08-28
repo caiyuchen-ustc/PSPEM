@@ -1,2 +1,1 @@
-# PSPEM
-A simple and efficient editing method
+PSPEM is coming soon!
